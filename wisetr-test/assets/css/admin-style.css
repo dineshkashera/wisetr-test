@@ -1,0 +1,9 @@
+span.export_error {
+    display: block;
+    padding: 5px 5px 5px 5px;
+    margin-top: 10px;
+    color: red;
+    font-weight: 600;
+    background: #fff;
+    width: 208px;
+}
